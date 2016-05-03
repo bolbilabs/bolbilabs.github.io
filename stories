@@ -1,24 +1,37 @@
-<!doctype html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+
+        "http://www.w3.org/TR/html4/loose.dtd">
+
+
 
 <html lang="en">
+
+
+
 <head>
-  <meta charset="utf-8">
 
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
 
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+	<title>Title Goes Here</title>
+
+
+
 </head>
 
+
+
 <body>
-</style></head><body><span style="font-weight: bold; font-style: italic; text-decoration: underline;">BEAUTIFUL GLORIOUS STORIES:</span><br><br><br><a href="lordparsons.html">Lord Parsons: Attack! Attack White House! Civil Rights Parsons! For the Greater Good of Humanity!</a><br><br><a href="kuninsky.html">The Kuninsky Khronicles: &nbsp;XxXKuninskyxNobunagaXxX</a><br></body></html>
-  <script src="js/scripts.js"></script>
+
+<p>This is my web page</p>
+
+
+
 </body>
+
+
+
 </html>
 
 
